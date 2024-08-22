@@ -121,7 +121,7 @@
 		});
 	
 	// Typing and Erasing Effect
-    const passions = ['UX Designer', 'Web Developer'];
+    const passions = ['UX Designer', 'Front-End Developer'];
     const passionElement = document.getElementById('passion');
     let index = 0;
     let typing = true;
