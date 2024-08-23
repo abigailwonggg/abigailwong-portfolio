@@ -2909,7 +2909,8 @@ input, select, textarea {
 }
 
 .project-content .Co-Developers, 
-.project-content .Project-Timeline {
+.project-content .Project-Timeline,
+.project-content .Technology-Stack {
 	font-size: 0.9em;
 	 
 }
