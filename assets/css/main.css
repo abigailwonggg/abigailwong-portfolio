@@ -2937,10 +2937,7 @@ input, select, textarea {
     font-weight: bold;
 }
 
-.learn-more:hover {
-    background-color: #49353f;
-	color: #ffffff;
-}
+
 
 /* Spotlight */
 
@@ -3228,7 +3225,7 @@ input, select, textarea {
 		#nav input, #nav select, #nav textarea {
 			color: #636363;
 		}
-
+		
 		#nav a:hover {
 			color: #636363;
 		}
